@@ -1,9 +1,9 @@
 ####
 # 📚 Spring Lv.2
 #### 📌 [과제 설명]
-- 일정: 2023.12.28.~2023.12.30.(3일) | 페어 프로그래밍 과제(이지수, [현민영](https://github.com/95hyun))
+- 2023.12.28.~2023.12.30.(3일) | 페어 프로그래밍 과제(이지수, [현민영](https://github.com/95hyun))
 - 목표: Spring Boot를 사용해 CRUD에 기반한 다양한 기능을 가진 도서관 서버 만들기
-- 진행: Code Conventions에 따라 개별적으로 기능을 구현한 후, 지속적인 코드 리뷰를 통해 develop하는 방식으로 진행함
+- 진행: Code Convention에 따라 개별 기능을 구현한 후, 지속적인 코드 리뷰를 통해 develop하는 방식으로 진행함
 ##
 #### 📌 [Code Convention 정립]
 - 생성자명 및 클래스명은 은 파스칼 케이스에 따라 작성함 / 예시) BookController
