@@ -16,7 +16,7 @@
 |:---:|:---:|
 |![image](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/1e67a24c-637d-4472-a0b9-c55f0abd3912)|![image](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/87183bc1-6cb7-4181-a85a-627aeea2acfe)|
 - 이지수: [Use Case Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/c081bd4f-b3ab-4683-8d4e-7af69d59316a) / [Entity Relationship Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/284adcea-6daf-478e-8d39-99e938470336) / [기능 구현 테스트 결과](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/67e3ef0d-84e1-4937-86f2-2a5a630b65cf)
-- 현민영: [Use Case Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/21f69a59-3f9f-4159-a8c4-683d76145cfa) / [Entity Relationship Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/71eb7b9a-98ae-4984-a0aa-861a9c4ea95e) / [기능 구현 테스트 결과]()
+- 현민영: [Use Case Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/21f69a59-3f9f-4159-a8c4-683d76145cfa) / [Entity Relationship Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/71eb7b9a-98ae-4984-a0aa-861a9c4ea95e) / [기능 구현 테스트 결과](https://github.com/95hyun/Algorithm/assets/151743721/db1ecb17-2dae-4487-8f2e-e8e5283ecacb)
 ##
 #### 📌 [과제 회고]
 #### **1. 이지수** 👩🏻‍💻
