@@ -14,9 +14,9 @@
 #### 📌 [API 명세서 / Use Case Diagram / Entity Relationship Diagram / 기능 구현 테스트 결과]
 |API 명세서(이지수)|API 명세서(현민영)|
 |:---:|:---:|
-|![image](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/1e67a24c-637d-4472-a0b9-c55f0abd3912)|![image](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/a98afdf7-d9d3-46ca-a853-57c1073987dc)|
+|![image](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/1e67a24c-637d-4472-a0b9-c55f0abd3912)|![image]([https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/a98afdf7-d9d3-46ca-a853-57c1073987dc](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/2269adf5-fea9-4ab8-86f0-058b474d8a32))|
 - 이지수: [Use Case Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/c081bd4f-b3ab-4683-8d4e-7af69d59316a) / [Entity Relationship Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/284adcea-6daf-478e-8d39-99e938470336) / [기능 구현 테스트 결과](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/67e3ef0d-84e1-4937-86f2-2a5a630b65cf)
-- 현민영: [Use Case Diagram]() / [Entity Relationship Diagram]() / [기능 구현 테스트 결과]()
+- 현민영: [Use Case Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/21f69a59-3f9f-4159-a8c4-683d76145cfa) / [Entity Relationship Diagram](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/151743721/71eb7b9a-98ae-4984-a0aa-861a9c4ea95e) / [기능 구현 테스트 결과]()
 ##
 #### 📌 [과제 회고]
 #### **1. 이지수** 👩🏻‍💻
@@ -24,7 +24,7 @@
 - Lv.1 과제 업데이트 예정 사항과 기술 매니저님으로부터 받은 피드백 사항을 모두 반영할 수 있어 뿌듯했습니다.
 - 현시점 구현하지 못한 기능은 숙련주차 강의와 민영님이 작성하신 코드로 추가 학습한 후 빠르게 업데이트하겠습니다! 🔥  
 #### **2. 현민영** 👨🏻‍💻
-- 
-- 
-- 
+- Lv.2 과제를 진행하며 3 Layer Architecture를 이용한 api 설계를 연습해보는데 큰 도움이 되었습니다! 👍🏻
+- Lv.1 과제를 통해 배웠던 내용을 Lv.2 과제를 하며 JPA를 적용하여 DB를 편하게 관리할 수 있어 좋았습니다!
+- 페어와 코드 리뷰를 진행하며 한번 더 복습하고 배울 수 있어 유익했습니다! 😈
 ####
