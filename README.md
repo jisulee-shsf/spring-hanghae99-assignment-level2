@@ -15,7 +15,7 @@
 |:---:|:---:|
 |![image](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/1e67a24c-637d-4472-a0b9-c55f0abd3912)|![image](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/a98afdf7-d9d3-46ca-a853-57c1073987dc)|
 
-- 이지수: [Use Case Diagram]() / [Entity Relationship Diagram]() / [기능 구현 테스트 결과]()
+- 이지수: [Use Case Diagram]() / [Entity Relationship Diagram]() / [기능 구현 테스트 결과](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2/assets/109773795/67e3ef0d-84e1-4937-86f2-2a5a630b65cf)
 - 현민영: [Use Case Diagram]() / [Entity Relationship Diagram]() / [기능 구현 테스트 결과]()
 ##
 #### 📌 [과제 회고]
